@@ -1,0 +1,24 @@
+p {
+    color: brown;
+}
+body {
+    font-size: medium;
+    font-style: italic;
+    color: #333333; /* Corrected hex color value */
+    background-image: url("C:/Users/franc/OneDrive/Escritorio/programas/MiPag/1.jpg");
+}
+.PROGRAMACION {
+    padding: 10px;
+    margin-bottom: 10px; /* Corrected property name */
+    border-radius: 100px;
+}
+#Titulo {
+    background-color: chartreuse;
+    border: 2px solid rgb(215, 60, 60);
+}
+h1 {
+    text-align: center;
+}
+.Tipos{
+    text-align: left;
+}
